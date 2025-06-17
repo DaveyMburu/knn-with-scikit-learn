@@ -13,6 +13,7 @@ In this lab you will:
 - Use a KNN classifier to generate predictions on a real-world dataset 
 - Evaluate the performance of a KNN model  
 
+# Check the index.ipynb file for my working
 
 ## Getting Started
 
